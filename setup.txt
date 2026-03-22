@@ -1,0 +1,14 @@
+Python:https://www.python.org/
+VS code:https://code.visualstudio.com/
+
+
+Requirement extensions for VS Code:
+    1.Python 
+    2.Jupyter
+
+Packages for python:
+    pip install 
+    Jupyter
+    Ipykernel
+
+
